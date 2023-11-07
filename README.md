@@ -1,6 +1,6 @@
 # Game-Off-2023
 For a game jam hosted by Github,Lee Reilly on itch.io.(November 2023).   
-So here i will be creating a game prototype with unity with all source code and  following the theme and the submission will be done on itch.io.   
+So here i will be creating a game prototype with unity with all source code, following the theme and the submission will be done on itch.io.   
 I will share the game link here once on submission.   
 Let's Begin........   
 
