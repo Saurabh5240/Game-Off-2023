@@ -10,6 +10,8 @@ Scaling and additionalfeatures ---
 (The enemy balls get bigger on every stage and the platforms are continuosly becoming big and small or changing their scale levels)   
 (The background color lightning changes with every player move)   
 
+Here is some  preview of the game.   
+
 
 
 
