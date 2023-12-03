@@ -1,6 +1,6 @@
 This is about the game---   
 1)The player is a sphere who has WASD and jump movement.   
-2)The player has to dodge the enemy balls on each level and move onto nect level.   
+2)The player has to dodge the enemy balls on each level and move onto next level.   
 3)Every next stage has bigger enemies.   
 4)The player can't move to next stage unless every enemy of the current stage is defeated.      
 5)The player has to reach last platform to win the game without falling.  
